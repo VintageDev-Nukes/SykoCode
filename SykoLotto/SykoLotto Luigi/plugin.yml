@@ -1,0 +1,9 @@
+name: SykoLotto
+version: 1.0
+main: me.XXLuigiMario.SykoLotto.SykoLotto
+author: XXLuigiMario
+depend: [Vault]
+description: Plugin de loteria
+commands:
+  lotto:
+    description: Main command

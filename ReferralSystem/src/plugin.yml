@@ -1,0 +1,9 @@
+name: ReferralSystem
+main: me.Ikillnukes.refsys.ReferralSystem
+version: 1.0
+description: Referral System for your server.
+author: Ikillnukes
+commands:
+   referral:
+    description: Manage your referrals
+    aliases: [ref]

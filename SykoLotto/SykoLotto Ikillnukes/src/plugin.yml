@@ -1,0 +1,9 @@
+name: SykoLotto
+version: 1.0
+main: me.Ikillnukes.lotto.Lotto
+author: Ikillnukes
+softdepend: [Vault]
+description: Lottery for your server
+commands:
+  lotto:
+    description: LotteryManager

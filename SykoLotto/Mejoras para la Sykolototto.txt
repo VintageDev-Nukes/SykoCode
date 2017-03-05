@@ -1,0 +1,5 @@
+Arreglar lotto enter 0
+Meter autoenter
+Meter el stats {usuario}
+Meter el command executor por consola
+Meter la configuración de idioma
